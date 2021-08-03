@@ -25,7 +25,7 @@ public class Week1 {
 		System.out.println(); 
 		
 		System.out.println("Word to code = 'Quadrant'");
-		String coded = pq.code("Quadrant"); 
+		String coded = pq.encode("Quadrant"); 
 		System.out.println("Quadrant would become " + coded);
 	}
 	
